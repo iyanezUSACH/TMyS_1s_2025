@@ -14,7 +14,7 @@ Lo usamos en este curso por tres razones clave:
 
 1.  **Colaboración y Transparencia 🤝**: Nos permite trabajar en equipo de manera ordenada. Todos podemos ver las últimas versiones de los archivos, evitando la confusión de tener múltiples copias de un mismo documento.
 2.  **Control de Versiones 🕒**: GitHub guarda un historial completo de todos los cambios. Si algo sale mal, podemos "viajar en el tiempo" y volver a una versión anterior que funcionaba.
-3.  **Portafolio Profesional 🚀**: Aprender a usar GitHub es una habilidad muy valorada en el mundo profesional. Este proyecto será una excelente adición a su portafolio digital.
+3.  **Portafolio Profesional 🚀**: Aprender a usar GitHub es una habilidad muy valorada en el mundo profesional y académico.
 
 ---
 ### Sobre este Repositorio 📂

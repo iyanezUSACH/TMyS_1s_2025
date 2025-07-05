@@ -26,7 +26,7 @@ Este repositorio contiene los archivos para el análisis de los datos que levant
 
 Aquí encontrarás:
 * El **notebook de análisis** con el código y los gráficos.
-* Los **datos consolidados** en formato `.csv`.
+* Los **datos consolidados** en formato `.xlsx`.
 * Un archivo `requirements.txt` para replicar el entorno de trabajo.
 
 ---

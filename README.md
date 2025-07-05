@@ -45,6 +45,7 @@ En la carpeta **[Archivos📂](Archivos)** encontrarás:
 * El **notebook de análisis** con el código y los gráficos.
 * Los **datos consolidados** en formato `.xlsx`.
 * Un archivo `requirements.txt` para replicar el entorno de trabajo.
+* Archivos SIG (`*.kmz`, `*.shp`)
 
 En la carpeta **[Analisis Datos Terreno_files📂](Analisis%20Datos%20Terreno_files)** están los gráficos obtenidos por este análisis
 

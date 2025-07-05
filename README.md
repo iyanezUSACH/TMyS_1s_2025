@@ -24,10 +24,12 @@ Este repositorio contiene los archivos para el análisis de los datos que levant
 * **Cajón del Maipo**: Representando la cuenca alta y los procesos de origen.
 * **Santo Domingo**: Representando la desembocadura y la zona baja de la cuenca.
 
-En la carpeta **[Archivos📂](Archivos)** Aquí encontrarás:
+En la carpeta **[Archivos📂](Archivos)** encontrarás:
 * El **notebook de análisis** con el código y los gráficos.
 * Los **datos consolidados** en formato `.xlsx`.
 * Un archivo `requirements.txt` para replicar el entorno de trabajo.
+
+En la carpeta **[Analisis Datos Terreno_files📂](Analisis%20Datos%20Terreno_files)** están los gráficos obtenidos por este análisis
 
 ---
 ### Análisis de Datos 📝

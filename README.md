@@ -17,6 +17,23 @@ Lo usamos en este curso por tres razones clave:
 3.  **Portafolio Profesional 🚀**: Aprender a usar GitHub es una habilidad muy valorada en el mundo profesional y académico.
 
 ---
+
+### ¿Por qué es importante la Ciencia de Datos en nuestra área? 🌎
+
+Como futuros ingenieros en Territorio y Medioambiente, su trabajo será entender y gestionar sistemas complejos. La **ciencia de datos** es una de las herramientas más poderosas para lograrlo.
+
+* **Entender Sistemas Complejos**: El medioambiente es un sistema lleno de variables que interactúan (clima, geografía, actividad humana). La ciencia de datos nos permite tomar mediciones del mundo real (como las que hicimos en terreno) y encontrar patrones y relaciones que a simple vista son invisibles.
+
+* **Tomar Decisiones Informadas**: En lugar de basar decisiones de planificación territorial o mitigación ambiental en la intuición, podemos usar datos para **validar hipótesis** y elegir la solución más efectiva. Este proyecto es un ejemplo práctico de ello.
+
+* **Predecir y Prevenir Riesgos**: Analizando datos históricos y actuales, podemos construir modelos que nos ayuden a predecir el riesgo de desastres naturales como inundaciones o remociones en masa, permitiendo un diseño de infraestructura más resiliente.
+
+* **Optimizar Recursos**: Desde la gestión del agua hasta la planificación de corredores biológicos, analizar datos nos ayuda a usar los recursos de manera más eficiente y a diseñar soluciones verdaderamente **sostenibles**.
+
+En resumen, aprender a manejar datos les dará una ventaja fundamental para resolver los desafíos ambientales y territoriales del futuro.
+
+---
+
 ### Sobre este Repositorio 📂
 
 Este repositorio contiene los archivos para el análisis de los datos que levantamos en terreno, con el objetivo de **trazar y caracterizar la cuenca del Río Maipo**. El estudio se centró en dos puntos clave:

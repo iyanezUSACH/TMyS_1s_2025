@@ -51,25 +51,21 @@ A continuación, se presentan las cinco hipótesis que guiaron el levantamiento 
 
 * **Instrumento Clave**: Detector de Calidad de Aire
 
----
 ### **Hipótesis 2: Influencia de Centros Urbanos en la Contaminación**
 > Aquellas localidades más próximas a concentraciones urbanas o puntos de alta actividad logística exhibirán mayores niveles de contaminantes (**PM2.5**, **PM10**, **CO**, **CO2**, etc.), traduciéndose en un **AQI** más elevado.
 
 * **Instrumento Clave**: Detector de Calidad de Aire
 
----
 ### **Hipótesis 3: Humedad del Aire y Suelo vs. Altitud y Agua**
 > La humedad del aire (**HUMI**) y la humedad del suelo (**Moisture**) serán significativamente inferiores en los sectores de mayor elevación, mientras que las áreas cercanas a grandes masas de agua mostrarán una mayor humedad ambiental.
 
 * **Instrumentos Clave**: Detector de Calidad de Aire, Medidor de Suelo
 
----
 ### **Hipótesis 4: Propiedades del Suelo (Temperatura y pH) vs. Altitud y Cobertura**
 > La temperatura del suelo (**Temp**) y el **pH** manifestarán diferencias notables entre sitios de mayor altitud y localidades de menor elevación con humedales o densa cobertura vegetal.
 
 * **Instrumento Clave**: Medidor de Suelo
 
----
 ### **Hipótesis 5: Viento y Temperatura del Aire vs. Altitud**
 > Los puntos geográficos de mayor altitud registrarán una mayor velocidad del **viento** y una menor **temperatura del aire** en comparación con las zonas más bajas y protegidas.
 

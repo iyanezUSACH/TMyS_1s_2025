@@ -39,8 +39,3 @@ El corazón de este proyecto es el análisis de datos, donde exploramos las hip�
 ➡️ **[Ver el Notebook de Análisis de Datos de Terreno](Analisis%20Datos%20Terreno.md)**
 
 ---
-### ¿Cómo usar este material? 💡
-
-1.  **Explora el Análisis**: Haz clic en el enlace de arriba para estudiar el notebook y entender los resultados.
-2.  **Descarga el Proyecto**: Puedes descargar todo el repositorio como un archivo `.zip` haciendo clic en el botón verde **`< > Code`** y luego en **"Download ZIP"**.
-3.  **Replica el Entorno (Opcional)**: Si quieres ejecutar el notebook en tu propio computador, instala las librerías necesarias usando el archivo de requerimientos con el comando: `pip install -r requirements.txt`.

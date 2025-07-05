@@ -34,7 +34,7 @@ display(HTML("""
 <a href="https://geo-usach.maps.arcgis.com/apps/dashboards/2fa1627265b649df9b27c63feda31775" target="_blank">Link a Dashboard Datos Terreno</a>
 
 
-### Esta sección convierte un servicio web en un DataFrame para hacer Ingeniería de Datos, esto lo van a ver en sus ramos de programación 
+### Esta sección convierte un [servicio de mapas web](https://geo-usach.maps.arcgis.com/home/item.html?id=b7ca7d8e28de4020bf9ec8c32d7afa28) en un DataFrame para hacer Ingeniería de Datos, esto lo van a ver en sus ramos de programación 
 
 
 ```python

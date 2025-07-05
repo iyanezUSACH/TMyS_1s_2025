@@ -31,8 +31,11 @@ En la carpeta **[Archivos📂](Archivos)** encontrarás:
 
 En la carpeta **[Analisis Datos Terreno_files📂](Analisis%20Datos%20Terreno_files)** están los gráficos obtenidos por este análisis
 
-Además completamos el análisis, accediendo al ArcGIS Dashboard 📊🗺️ copiando el siguiente enlace en tu navegador: `https://geo-usach.maps.arcgis.com/apps/dashboards/2fa1627265b649df9b27c63feda31775`
+Además completamos el análisis, accediendo al ArcGIS Dashboard 📊🗺️ copiando el siguiente enlace en tu navegador: 
 
+``` python
+https://geo-usach.maps.arcgis.com/apps/dashboards/2fa1627265b649df9b27c63feda31775
+```
 ---
 ### Análisis de Datos 📝
 

@@ -1,7 +1,7 @@
 <img src="https://www.digea.usach.cl/digea/site/artic/20230110/imag/foto_0000000620230110165150/LOGO_DIGEA_MAIN_01.png" height='100px'>
 
 # Territorio, Medioambiente y Sustentabilidad - 1er Semestre 2025
-## Trabajo Final - Análisis de Datos de Terreno
+## Trabajo Final - Caracterización de la Cuenca del Río Maipo
 
 ¡Bienvenidos al repositorio del Trabajo Final! Este espacio centraliza todo el material que necesitaremos para nuestro análisis de datos geoespaciales.
 
@@ -19,7 +19,10 @@ Lo usamos en este curso por tres razones clave:
 ---
 ### Sobre este Repositorio 📂
 
-Este repositorio contiene todos los archivos necesarios para el análisis de los datos que levantamos en terreno en **Baños Morales, Cajón del Maipo**.
+Este repositorio contiene los archivos para el análisis de los datos que levantamos en terreno, con el objetivo de **trazar y caracterizar la cuenca del Río Maipo**. El estudio se centró en dos puntos clave:
+
+* **Cajón del Maipo**: Representando la cuenca alta y los procesos de origen.
+* **Santo Domingo**: Representando la desembocadura y la zona baja de la cuenca.
 
 Aquí encontrarás:
 * El **notebook de análisis** con el código y los gráficos.

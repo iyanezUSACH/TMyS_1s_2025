@@ -45,7 +45,6 @@ El corazón de este proyecto es el análisis de datos, donde exploramos las hip�
 
 A continuación, se presentan las cinco hipótesis que guiaron el levantamiento de datos y el posterior análisis.
 
----
 ### **Hipótesis 1: Gradiente de Calidad del Aire vs. Altitud y Actividad Humana**
 > Se anticipa que las zonas de mayor altitud presentarán menores concentraciones de **PM2.5**, **PM10**, **CO**, **CO2**, **HCHO** y **TVOC**, lo que resultará en un mejor **AQI**, en contraste con las áreas de menor altitud con mayor huella humana.
 
